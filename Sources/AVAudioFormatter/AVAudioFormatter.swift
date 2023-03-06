@@ -1,0 +1,6 @@
+public struct AVAudioFormatter {
+    public private(set) var text = "Hello, World!"
+
+    public init() {
+    }
+}
